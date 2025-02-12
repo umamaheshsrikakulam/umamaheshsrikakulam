@@ -1,7 +1,8 @@
-## Hi there 👋
 
 <!--
 **umamaheshsrikakulam/umamaheshsrikakulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+-->
 
 <h1 align="center">Hi 👋, I'm Uma Mahesh S</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -30,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umamaheshsrikakulam&show_icons=true&locale=en&layout=compact" alt="umamaheshsrikakulam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umamaheshsrikakulam&show_icons=true&locale=en" alt="umamaheshsrikakulam" /></p>
-
--->
